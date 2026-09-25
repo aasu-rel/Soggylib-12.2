@@ -57,7 +57,7 @@ Got a different version? Cool. Update `offsets.h` yourself. good luck
 
 # To-do list
 
-- None, check out [9.6.1 Soggylib repository](https://github.com/aasu-rel/Soggylib)/ instead
+- None, check out [9.6.1 Soggylib repository](https://github.com/aasu-rel/Soggylib) instead
 
 ---
 
